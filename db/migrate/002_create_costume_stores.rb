@@ -1,1 +1,3 @@
-class CreateCosti
+class CreateCostumeStores < ActiveRecord::Migration[5.1]
+  
+end
